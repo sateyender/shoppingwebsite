@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+main{
+    padding: 20px;
+}
+h2{
+    margin-top: 0;
+    font-size: 32px;
+}
+
+.product{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+    text-align: center;
+}
+.product img{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    
+}
+.product h3{
+    margin: 0;
+}
+.product p{
+    color: #888;
+}

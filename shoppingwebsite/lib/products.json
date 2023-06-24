@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Product 1",
+        "image":"Product1.jpg",
+        "description":"This is Product1"
+    },
+    {
+        "name":"Product 2",
+        "image":"Product2.jpg",
+        "description":"This is Product2" 
+    },
+    {
+        "name":"Product 3",
+        "image":"Product3.jpg",
+        "description":"This is Product3" 
+    },
+    {
+        "name":"Product 4",
+        "image":"Product4.jpg",
+        "description":"This is Product4" 
+    }
+]
